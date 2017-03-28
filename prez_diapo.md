@@ -35,7 +35,7 @@
 - Installation et configuration Elastic Search & Kibana
 - Découverte d'une interface d'administration graphique
 
-#### III 
+#### III 
 
 - Rédaction des scripts et automatisation
 - Association d'outils de collecte et de gestion des fichiers de logs
