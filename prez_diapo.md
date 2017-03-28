@@ -2,12 +2,6 @@
 % Debray Matthieu;Desquiens Cyprien; Thibeuf Antoine 
 % 30 Mars 2017
 
-# Test
-
-## Ceci est un test
-
-![](img/elastic.png)
-
 # Introduction
 
 ## Introduction
@@ -89,6 +83,8 @@
 - Extraire l'archive (dans notre cas)
 - Se rendre dans le dossier contenant le script
 - L'executer tel quel
+
+![](img/elastic.png)
 
 # Moteur de recherche
 
