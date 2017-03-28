@@ -84,8 +84,6 @@
 - Se rendre dans le dossier contenant le script
 - L'executer tel quel
 
-![](img/elastic.png)
-
 # Moteur de recherche
 
 ## Elastic Search
