@@ -2,6 +2,12 @@
 % Debray Matthieu;Desquiens Cyprien; Thibeuf Antoine 
 % 30 Mars 2017
 
+# Test
+
+## Ceci est un test
+
+![GitHub Logo](/img/elastic_logo.png)
+
 # Introduction
 
 ## Introduction
