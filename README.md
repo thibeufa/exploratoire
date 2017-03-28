@@ -1,1 +1,3 @@
-# exploratoire
+# Exploratoire
+
+Répertoire GIT du Projet Exploratoire ...
