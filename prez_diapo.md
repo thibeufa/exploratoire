@@ -6,7 +6,7 @@
 
 ## Ceci est un test
 
-![GitHub Logo](/img/elastic_logo.png)
+![](/img/elastic_logo.png)
 
 # Introduction
 
