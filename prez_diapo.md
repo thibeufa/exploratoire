@@ -6,7 +6,7 @@
 
 ## Ceci est un test
 
-![](/img/elastic_logo.png)
+![](/img/elastic_logo.svg)
 
 # Introduction
 
