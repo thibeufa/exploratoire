@@ -854,6 +854,10 @@ Toujours dans Kibana, onglet **Discover**, on peut observer les données en brut
 
 **[Voila donc une première ébauche de tableau de bord :][4]**
 
+Voila donc une première ébauche de tableau de bord :
+
+![](img/Tableau_Bord.png)
+
 On peut ensuite sauvegarder cette recherche grâce au bouton **Save** situé un peu plus haut.
 
 A propos du champ **@timestamp**, on constate que celui correspond en réalité au moment où le log est récupéré et transformé, ce qui est moins intéressant dans notre situation. La case côchée plus haut ne sera plus forcément utile par la suite.
