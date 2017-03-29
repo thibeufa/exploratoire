@@ -894,7 +894,7 @@ Pour finir, nous avons manqué de temps pour pouvoir réaliser le mapping dans E
 
 Ce projet a donc aboutit à une base (encore perfectible toutefois) sur laquelle Mr Peter pourra donc se pencher afin de mettre en place l'idée de supervision des Travaux Pratiques.
 
-Tout au long du déroulement, nous avons pu constater que la gamme Elastic est plutôt riche et variée, certains de ses autres logiciels pourraient notamment servir à des fins d'optimisation ou d'amélioration (**Heartbeat**, **X-Pack**. 
+Tout au long du déroulement, nous avons pu constater que la gamme Elastic est plutôt riche et variée, certains de ses autres logiciels pourraient notamment servir à des fins d'optimisation ou d'amélioration (**Heartbeat**, **X-Pack**). 
 
 Elle nous a également fait constater que les documentation officielles étaient un point de départ incontournable pour toute nouvelle utilisation dans le monde de l’informatique, et plus particulièrement dans le domaine d’UNIX.
 
