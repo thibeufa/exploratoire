@@ -690,7 +690,7 @@ Les fichiers de logs sont donc désormais mis en place, il ne reste plus qu'à l
 
 #### Association Filebeat & Logstash
 
-![](https://www.elastic.co/guide/en/logstash/current/static/images/basic_logstash_pipeline.png)
+![](img/filebeat_logstash.png)
 
 L'idéal serait d'utiliser un outil de collecte des différents fichiers de logs afin de les transmettre à un autre outil qui va se charger de les transformer et de les envoyer vers le moteur de recherche, c'est le rôle de Filebeat et Logstash  que nous allons donc utiliser. 
 
