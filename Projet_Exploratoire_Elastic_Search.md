@@ -1,5 +1,5 @@
-![](http://www.iut-lille.com/img/logo-iut-villeneuve-ascq.png)
-![](http://www.univ-lille1.fr/digitalAssets/38/38040_logo-trans.png)
+![](img/logo_iut.png)
+![](img/logo_lille.png)
 
 # Projet Exploratoire - Semestre 6  
 
