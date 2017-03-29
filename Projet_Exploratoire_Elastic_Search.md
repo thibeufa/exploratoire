@@ -3,7 +3,7 @@
 
 # Projet Exploratoire - Semestre 6  
 
-![](https://image.noelshack.com/fichiers/2017/09/1488384093-elastic-logo-2.png)  
+![](img/logo.png)  
 
 *Desquiens Cyprien, Debray Mathieu, Thibeuf Antoine*
 
