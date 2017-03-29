@@ -850,13 +850,13 @@ On laisse également cocher la case **"Index contains time-based events"** puis 
 
 Toujours dans Kibana, onglet **Discover**, on peut observer les données en brut du moteur suite à la définition de l'Index Pattern, on va affiner cette recherche en sélectionnant quelques champs pertinents tel que **host**, **message** et **source**. 
 
-[4]: https://image.noelshack.com/fichiers/2017/12/1490274016-1.png
-
-**[Voila donc une première ébauche de tableau de bord :][4]**
-
 Voila donc une première ébauche de tableau de bord :
 
 ![](img/Tableau_Bord.png)
+
+[4]: https://image.noelshack.com/fichiers/2017/12/1490274016-1.png
+
+**[Lien avec une meilleure résolution][4]**
 
 On peut ensuite sauvegarder cette recherche grâce au bouton **Save** situé un peu plus haut.
 
